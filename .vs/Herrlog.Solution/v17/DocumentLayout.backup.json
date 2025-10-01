@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\thidi\\source\\repos\\HerrLog\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{81DA55B1-C272-9618-0F99-D76656A853D3}|Herrlog.Application\\Herrlog.Application.csproj|c:\\users\\thidi\\source\\repos\\herrlog\\herrlog.application\\queries\\tracking\\gettrackingpointsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DA55B1-C272-9618-0F99-D76656A853D3}|Herrlog.Application\\Herrlog.Application.csproj|solutionrelative:herrlog.application\\queries\\tracking\\gettrackingpointsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DA55B1-C272-9618-0F99-D76656A853D3}|Herrlog.Application\\Herrlog.Application.csproj|c:\\users\\thidi\\source\\repos\\herrlog\\herrlog.application\\commands\\tracking\\uploadtrackingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DA55B1-C272-9618-0F99-D76656A853D3}|Herrlog.Application\\Herrlog.Application.csproj|solutionrelative:herrlog.application\\commands\\tracking\\uploadtrackingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{71F1D1BB-CFF5-F370-594E-3A9DFF0A3210}|Herrlog.Infrastructure\\Herrlog.Infrastructure.csproj|c:\\users\\thidi\\source\\repos\\herrlog\\herrlog.infrastructure\\scripts\\schema_herrlogdb.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
       "RelativeMoniker": "D:0:0:{71F1D1BB-CFF5-F370-594E-3A9DFF0A3210}|Herrlog.Infrastructure\\Herrlog.Infrastructure.csproj|solutionrelative:herrlog.infrastructure\\scripts\\schema_herrlogdb.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
@@ -51,16 +59,8 @@
       "RelativeMoniker": "D:0:0:{39222BC4-2D00-FE64-1F19-067DCA3D2B17}|Herrlog.Tests\\Herrlog.Tests.csproj|solutionrelative:herrlog.tests\\testutilities\\testfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81DA55B1-C272-9618-0F99-D76656A853D3}|Herrlog.Application\\Herrlog.Application.csproj|c:\\users\\thidi\\source\\repos\\herrlog\\herrlog.application\\commands\\tracking\\uploadtrackingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81DA55B1-C272-9618-0F99-D76656A853D3}|Herrlog.Application\\Herrlog.Application.csproj|solutionrelative:herrlog.application\\commands\\tracking\\uploadtrackingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{81DA55B1-C272-9618-0F99-D76656A853D3}|Herrlog.Application\\Herrlog.Application.csproj|c:\\users\\thidi\\source\\repos\\herrlog\\herrlog.application\\mapping\\trackingpointmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81DA55B1-C272-9618-0F99-D76656A853D3}|Herrlog.Application\\Herrlog.Application.csproj|solutionrelative:herrlog.application\\mapping\\trackingpointmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81DA55B1-C272-9618-0F99-D76656A853D3}|Herrlog.Application\\Herrlog.Application.csproj|c:\\users\\thidi\\source\\repos\\herrlog\\herrlog.application\\queries\\tracking\\gettrackingpointsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81DA55B1-C272-9618-0F99-D76656A853D3}|Herrlog.Application\\Herrlog.Application.csproj|solutionrelative:herrlog.application\\queries\\tracking\\gettrackingpointsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{81DA55B1-C272-9618-0F99-D76656A853D3}|Herrlog.Application\\Herrlog.Application.csproj|c:\\users\\thidi\\source\\repos\\herrlog\\herrlog.application\\dtos\\trackingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -128,50 +128,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "DeleteVehicleCommand.cs",
-              "DocumentMoniker": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Application\\Commands\\Vehicle\\DeleteVehicleCommand.cs",
-              "RelativeDocumentMoniker": "Herrlog.Application\\Commands\\Vehicle\\DeleteVehicleCommand.cs",
-              "ToolTip": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Application\\Commands\\Vehicle\\DeleteVehicleCommand.cs",
-              "RelativeToolTip": "Herrlog.Application\\Commands\\Vehicle\\DeleteVehicleCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T19:56:52.649Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UpdateVehicleCommand.cs",
-              "DocumentMoniker": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Application\\Commands\\Vehicle\\UpdateVehicleCommand.cs",
-              "RelativeDocumentMoniker": "Herrlog.Application\\Commands\\Vehicle\\UpdateVehicleCommand.cs",
-              "ToolTip": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Application\\Commands\\Vehicle\\UpdateVehicleCommand.cs",
-              "RelativeToolTip": "Herrlog.Application\\Commands\\Vehicle\\UpdateVehicleCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T19:56:19.225Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.WebApi\\appsettings.json",
-              "RelativeDocumentMoniker": "Herrlog.WebApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.WebApi\\appsettings.json",
-              "RelativeToolTip": "Herrlog.WebApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-28T17:25:28.638Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "HerrlogDbContext.cs",
               "DocumentMoniker": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Infrastructure\\Database\\HerrlogDbContext.cs",
               "RelativeDocumentMoniker": "Herrlog.Infrastructure\\Database\\HerrlogDbContext.cs",
@@ -184,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "schema_herrlogdb.sql ",
               "DocumentMoniker": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Infrastructure\\Scripts\\schema_herrlogdb.sql",
               "RelativeDocumentMoniker": "Herrlog.Infrastructure\\Scripts\\schema_herrlogdb.sql",
@@ -196,7 +157,72 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UploadTrackingCommand.cs",
+              "DocumentMoniker": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Application\\Commands\\Tracking\\UploadTrackingCommand.cs",
+              "RelativeDocumentMoniker": "Herrlog.Application\\Commands\\Tracking\\UploadTrackingCommand.cs",
+              "ToolTip": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Application\\Commands\\Tracking\\UploadTrackingCommand.cs",
+              "RelativeToolTip": "Herrlog.Application\\Commands\\Tracking\\UploadTrackingCommand.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA9wCIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T20:58:19.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetTrackingPointsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Application\\Queries\\Tracking\\GetTrackingPointsQuery.cs",
+              "RelativeDocumentMoniker": "Herrlog.Application\\Queries\\Tracking\\GetTrackingPointsQuery.cs",
+              "ToolTip": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Application\\Queries\\Tracking\\GetTrackingPointsQuery.cs",
+              "RelativeToolTip": "Herrlog.Application\\Queries\\Tracking\\GetTrackingPointsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T21:03:29.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "Herrlog.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.WebApi\\appsettings.json",
+              "RelativeToolTip": "Herrlog.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-28T17:25:28.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "UpdateVehicleCommand.cs",
+              "DocumentMoniker": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Application\\Commands\\Vehicle\\UpdateVehicleCommand.cs",
+              "RelativeDocumentMoniker": "Herrlog.Application\\Commands\\Vehicle\\UpdateVehicleCommand.cs",
+              "ToolTip": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Application\\Commands\\Vehicle\\UpdateVehicleCommand.cs",
+              "RelativeToolTip": "Herrlog.Application\\Commands\\Vehicle\\UpdateVehicleCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T19:56:19.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeleteVehicleCommand.cs",
+              "DocumentMoniker": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Application\\Commands\\Vehicle\\DeleteVehicleCommand.cs",
+              "RelativeDocumentMoniker": "Herrlog.Application\\Commands\\Vehicle\\DeleteVehicleCommand.cs",
+              "ToolTip": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Application\\Commands\\Vehicle\\DeleteVehicleCommand.cs",
+              "RelativeToolTip": "Herrlog.Application\\Commands\\Vehicle\\DeleteVehicleCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T19:56:52.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "CreateVehicleCommand.cs",
               "DocumentMoniker": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Application\\Commands\\Vehicle\\CreateVehicleCommand.cs",
               "RelativeDocumentMoniker": "Herrlog.Application\\Commands\\Vehicle\\CreateVehicleCommand.cs",
@@ -209,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.WebApi\\Program.cs",
               "RelativeDocumentMoniker": "Herrlog.WebApi\\Program.cs",
@@ -222,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "VehicleCommandsTests.cs",
               "DocumentMoniker": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Tests\\Vehicles\\VehicleCommandsTests.cs",
               "RelativeDocumentMoniker": "Herrlog.Tests\\Vehicles\\VehicleCommandsTests.cs",
@@ -235,7 +261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "VehicleQueriesTests.cs",
               "DocumentMoniker": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Tests\\Vehicles\\VehicleQueriesTests.cs",
               "RelativeDocumentMoniker": "Herrlog.Tests\\Vehicles\\VehicleQueriesTests.cs",
@@ -248,7 +274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "TrackingPointMapping.cs",
               "DocumentMoniker": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Application\\Mapping\\TrackingPointMapping.cs",
               "RelativeDocumentMoniker": "Herrlog.Application\\Mapping\\TrackingPointMapping.cs",
@@ -261,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.WebApi\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Herrlog.WebApi\\Properties\\launchSettings.json",
@@ -274,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "TrackingTests.cs",
               "DocumentMoniker": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Tests\\Tracking\\TrackingTests.cs",
               "RelativeDocumentMoniker": "Herrlog.Tests\\Tracking\\TrackingTests.cs",
@@ -287,7 +313,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "TestFixture.cs",
               "DocumentMoniker": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Tests\\TestUtilities\\TestFixture.cs",
               "RelativeDocumentMoniker": "Herrlog.Tests\\TestUtilities\\TestFixture.cs",
@@ -296,32 +322,6 @@
               "ViewState": "AgIAAAQAAAAAAAAAAAAAwB0AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-01T02:48:46.802Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UploadTrackingCommand.cs",
-              "DocumentMoniker": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Application\\Commands\\Tracking\\UploadTrackingCommand.cs",
-              "RelativeDocumentMoniker": "Herrlog.Application\\Commands\\Tracking\\UploadTrackingCommand.cs",
-              "ToolTip": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Application\\Commands\\Tracking\\UploadTrackingCommand.cs",
-              "RelativeToolTip": "Herrlog.Application\\Commands\\Tracking\\UploadTrackingCommand.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAUwDQAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T20:58:19.418Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "GetTrackingPointsQuery.cs",
-              "DocumentMoniker": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Application\\Queries\\Tracking\\GetTrackingPointsQuery.cs",
-              "RelativeDocumentMoniker": "Herrlog.Application\\Queries\\Tracking\\GetTrackingPointsQuery.cs",
-              "ToolTip": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Application\\Queries\\Tracking\\GetTrackingPointsQuery.cs",
-              "RelativeToolTip": "Herrlog.Application\\Queries\\Tracking\\GetTrackingPointsQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T21:03:29.894Z",
               "EditorCaption": ""
             },
             {
