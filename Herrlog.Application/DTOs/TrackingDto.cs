@@ -1,0 +1,35 @@
+﻿namespace Herrlog.Application.DTOs;
+public record TrackingUploadItemDto(
+    string Plate,
+    string DeviceModel,
+    long DeviceId,
+    long PositionId,
+    string Date,
+    string DateUTC,
+    string Realtime,
+    string Ignition,
+    double Odometer,
+    string Horimeter,
+    string Address,
+    double Direction,
+    string Header,
+    string GpsFix,
+    double Speed,
+    string MainBattery,
+    string BackupBattery,
+    double Latitude,
+    double Longitude,
+    string DriverName,
+    string DriverId,
+    string Input1,
+    string Input2,
+    string Output1,
+    string Output2,
+    string Rs232,
+    int IsLbs,
+    string Rpm,
+    string OriginPosition,
+    string BatteryPercentual
+);
+
+public record TrackingPointDto(int Id, string RawPlate, DateTime DateUtc, double Latitude, double Longitude, double? Speed);

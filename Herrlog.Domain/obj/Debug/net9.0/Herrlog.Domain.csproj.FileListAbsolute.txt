@@ -1,0 +1,12 @@
+C:\Users\thidi\source\repos\HerrLog\Herrlog.Domain\bin\Debug\net9.0\Herrlog.Domain.deps.json
+C:\Users\thidi\source\repos\HerrLog\Herrlog.Domain\bin\Debug\net9.0\Herrlog.Domain.dll
+C:\Users\thidi\source\repos\HerrLog\Herrlog.Domain\bin\Debug\net9.0\Herrlog.Domain.pdb
+C:\Users\thidi\source\repos\HerrLog\Herrlog.Domain\obj\Debug\net9.0\Herrlog.Domain.csproj.AssemblyReference.cache
+C:\Users\thidi\source\repos\HerrLog\Herrlog.Domain\obj\Debug\net9.0\Herrlog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thidi\source\repos\HerrLog\Herrlog.Domain\obj\Debug\net9.0\Herrlog.Domain.AssemblyInfoInputs.cache
+C:\Users\thidi\source\repos\HerrLog\Herrlog.Domain\obj\Debug\net9.0\Herrlog.Domain.AssemblyInfo.cs
+C:\Users\thidi\source\repos\HerrLog\Herrlog.Domain\obj\Debug\net9.0\Herrlog.Domain.csproj.CoreCompileInputs.cache
+C:\Users\thidi\source\repos\HerrLog\Herrlog.Domain\obj\Debug\net9.0\Herrlog.Domain.dll
+C:\Users\thidi\source\repos\HerrLog\Herrlog.Domain\obj\Debug\net9.0\refint\Herrlog.Domain.dll
+C:\Users\thidi\source\repos\HerrLog\Herrlog.Domain\obj\Debug\net9.0\Herrlog.Domain.pdb
+C:\Users\thidi\source\repos\HerrLog\Herrlog.Domain\obj\Debug\net9.0\ref\Herrlog.Domain.dll

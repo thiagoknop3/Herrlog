@@ -1,0 +1,526 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thidi\\source\\repos\\HerrLog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81DA55B1-C272-9618-0F99-D76656A853D3}|Herrlog.Application\\Herrlog.Application.csproj|c:\\users\\thidi\\source\\repos\\herrlog\\herrlog.application\\queries\\tracking\\gettrackingpointsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DA55B1-C272-9618-0F99-D76656A853D3}|Herrlog.Application\\Herrlog.Application.csproj|solutionrelative:herrlog.application\\queries\\tracking\\gettrackingpointsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DA55B1-C272-9618-0F99-D76656A853D3}|Herrlog.Application\\Herrlog.Application.csproj|c:\\users\\thidi\\source\\repos\\herrlog\\herrlog.application\\commands\\tracking\\uploadtrackingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DA55B1-C272-9618-0F99-D76656A853D3}|Herrlog.Application\\Herrlog.Application.csproj|solutionrelative:herrlog.application\\commands\\tracking\\uploadtrackingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F1D1BB-CFF5-F370-594E-3A9DFF0A3210}|Herrlog.Infrastructure\\Herrlog.Infrastructure.csproj|c:\\users\\thidi\\source\\repos\\herrlog\\herrlog.infrastructure\\scripts\\schema_herrlogdb.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{71F1D1BB-CFF5-F370-594E-3A9DFF0A3210}|Herrlog.Infrastructure\\Herrlog.Infrastructure.csproj|solutionrelative:herrlog.infrastructure\\scripts\\schema_herrlogdb.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F1D1BB-CFF5-F370-594E-3A9DFF0A3210}|Herrlog.Infrastructure\\Herrlog.Infrastructure.csproj|c:\\users\\thidi\\source\\repos\\herrlog\\herrlog.infrastructure\\database\\herrlogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F1D1BB-CFF5-F370-594E-3A9DFF0A3210}|Herrlog.Infrastructure\\Herrlog.Infrastructure.csproj|solutionrelative:herrlog.infrastructure\\database\\herrlogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DA55B1-C272-9618-0F99-D76656A853D3}|Herrlog.Application\\Herrlog.Application.csproj|c:\\users\\thidi\\source\\repos\\herrlog\\herrlog.application\\commands\\vehicle\\updatevehiclecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DA55B1-C272-9618-0F99-D76656A853D3}|Herrlog.Application\\Herrlog.Application.csproj|solutionrelative:herrlog.application\\commands\\vehicle\\updatevehiclecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DA55B1-C272-9618-0F99-D76656A853D3}|Herrlog.Application\\Herrlog.Application.csproj|c:\\users\\thidi\\source\\repos\\herrlog\\herrlog.application\\commands\\vehicle\\deletevehiclecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DA55B1-C272-9618-0F99-D76656A853D3}|Herrlog.Application\\Herrlog.Application.csproj|solutionrelative:herrlog.application\\commands\\vehicle\\deletevehiclecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DA55B1-C272-9618-0F99-D76656A853D3}|Herrlog.Application\\Herrlog.Application.csproj|c:\\users\\thidi\\source\\repos\\herrlog\\herrlog.application\\commands\\vehicle\\createvehiclecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DA55B1-C272-9618-0F99-D76656A853D3}|Herrlog.Application\\Herrlog.Application.csproj|solutionrelative:herrlog.application\\commands\\vehicle\\createvehiclecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41707344-F962-377F-692E-ED6683CAC643}|Herrlog.WebApi\\Herrlog.WebApi.csproj|c:\\users\\thidi\\source\\repos\\herrlog\\herrlog.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41707344-F962-377F-692E-ED6683CAC643}|Herrlog.WebApi\\Herrlog.WebApi.csproj|solutionrelative:herrlog.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41707344-F962-377F-692E-ED6683CAC643}|Herrlog.WebApi\\Herrlog.WebApi.csproj|c:\\users\\thidi\\source\\repos\\herrlog\\herrlog.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{41707344-F962-377F-692E-ED6683CAC643}|Herrlog.WebApi\\Herrlog.WebApi.csproj|solutionrelative:herrlog.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41707344-F962-377F-692E-ED6683CAC643}|Herrlog.WebApi\\Herrlog.WebApi.csproj|c:\\users\\thidi\\source\\repos\\herrlog\\herrlog.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{41707344-F962-377F-692E-ED6683CAC643}|Herrlog.WebApi\\Herrlog.WebApi.csproj|solutionrelative:herrlog.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39222BC4-2D00-FE64-1F19-067DCA3D2B17}|Herrlog.Tests\\Herrlog.Tests.csproj|c:\\users\\thidi\\source\\repos\\herrlog\\herrlog.tests\\vehicles\\vehiclequeriestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39222BC4-2D00-FE64-1F19-067DCA3D2B17}|Herrlog.Tests\\Herrlog.Tests.csproj|solutionrelative:herrlog.tests\\vehicles\\vehiclequeriestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39222BC4-2D00-FE64-1F19-067DCA3D2B17}|Herrlog.Tests\\Herrlog.Tests.csproj|c:\\users\\thidi\\source\\repos\\herrlog\\herrlog.tests\\vehicles\\vehiclecommandstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39222BC4-2D00-FE64-1F19-067DCA3D2B17}|Herrlog.Tests\\Herrlog.Tests.csproj|solutionrelative:herrlog.tests\\vehicles\\vehiclecommandstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39222BC4-2D00-FE64-1F19-067DCA3D2B17}|Herrlog.Tests\\Herrlog.Tests.csproj|c:\\users\\thidi\\source\\repos\\herrlog\\herrlog.tests\\tracking\\trackingtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39222BC4-2D00-FE64-1F19-067DCA3D2B17}|Herrlog.Tests\\Herrlog.Tests.csproj|solutionrelative:herrlog.tests\\tracking\\trackingtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39222BC4-2D00-FE64-1F19-067DCA3D2B17}|Herrlog.Tests\\Herrlog.Tests.csproj|c:\\users\\thidi\\source\\repos\\herrlog\\herrlog.tests\\testutilities\\testfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39222BC4-2D00-FE64-1F19-067DCA3D2B17}|Herrlog.Tests\\Herrlog.Tests.csproj|solutionrelative:herrlog.tests\\testutilities\\testfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DA55B1-C272-9618-0F99-D76656A853D3}|Herrlog.Application\\Herrlog.Application.csproj|c:\\users\\thidi\\source\\repos\\herrlog\\herrlog.application\\mapping\\trackingpointmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DA55B1-C272-9618-0F99-D76656A853D3}|Herrlog.Application\\Herrlog.Application.csproj|solutionrelative:herrlog.application\\mapping\\trackingpointmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DA55B1-C272-9618-0F99-D76656A853D3}|Herrlog.Application\\Herrlog.Application.csproj|c:\\users\\thidi\\source\\repos\\herrlog\\herrlog.application\\dtos\\trackingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DA55B1-C272-9618-0F99-D76656A853D3}|Herrlog.Application\\Herrlog.Application.csproj|solutionrelative:herrlog.application\\dtos\\trackingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DA55B1-C272-9618-0F99-D76656A853D3}|Herrlog.Application\\Herrlog.Application.csproj|c:\\users\\thidi\\source\\repos\\herrlog\\herrlog.application\\validation\\vehiclevalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DA55B1-C272-9618-0F99-D76656A853D3}|Herrlog.Application\\Herrlog.Application.csproj|solutionrelative:herrlog.application\\validation\\vehiclevalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4940DD28-4CA6-6E2B-23AF-A12C53059A90}|Herrlog.Domain\\Herrlog.Domain.csproj|c:\\users\\thidi\\source\\repos\\herrlog\\herrlog.domain\\entities\\trackingpointentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4940DD28-4CA6-6E2B-23AF-A12C53059A90}|Herrlog.Domain\\Herrlog.Domain.csproj|solutionrelative:herrlog.domain\\entities\\trackingpointentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DA55B1-C272-9618-0F99-D76656A853D3}|Herrlog.Application\\Herrlog.Application.csproj|c:\\users\\thidi\\source\\repos\\herrlog\\herrlog.application\\queries\\vehicle\\getvehiclebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DA55B1-C272-9618-0F99-D76656A853D3}|Herrlog.Application\\Herrlog.Application.csproj|solutionrelative:herrlog.application\\queries\\vehicle\\getvehiclebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DA55B1-C272-9618-0F99-D76656A853D3}|Herrlog.Application\\Herrlog.Application.csproj|c:\\users\\thidi\\source\\repos\\herrlog\\herrlog.application\\queries\\vehicle\\getvehiclesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DA55B1-C272-9618-0F99-D76656A853D3}|Herrlog.Application\\Herrlog.Application.csproj|solutionrelative:herrlog.application\\queries\\vehicle\\getvehiclesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4940DD28-4CA6-6E2B-23AF-A12C53059A90}|Herrlog.Domain\\Herrlog.Domain.csproj|c:\\users\\thidi\\source\\repos\\herrlog\\herrlog.domain\\entities\\vehicleentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4940DD28-4CA6-6E2B-23AF-A12C53059A90}|Herrlog.Domain\\Herrlog.Domain.csproj|solutionrelative:herrlog.domain\\entities\\vehicleentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DA55B1-C272-9618-0F99-D76656A853D3}|Herrlog.Application\\Herrlog.Application.csproj|c:\\users\\thidi\\source\\repos\\herrlog\\herrlog.application\\herrlog.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{81DA55B1-C272-9618-0F99-D76656A853D3}|Herrlog.Application\\Herrlog.Application.csproj|solutionrelative:herrlog.application\\herrlog.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DA55B1-C272-9618-0F99-D76656A853D3}|Herrlog.Application\\Herrlog.Application.csproj|c:\\users\\thidi\\source\\repos\\herrlog\\herrlog.application\\mapping\\vehiclemappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DA55B1-C272-9618-0F99-D76656A853D3}|Herrlog.Application\\Herrlog.Application.csproj|solutionrelative:herrlog.application\\mapping\\vehiclemappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F1D1BB-CFF5-F370-594E-3A9DFF0A3210}|Herrlog.Infrastructure\\Herrlog.Infrastructure.csproj|c:\\users\\thidi\\source\\repos\\herrlog\\herrlog.infrastructure\\herrlog.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{71F1D1BB-CFF5-F370-594E-3A9DFF0A3210}|Herrlog.Infrastructure\\Herrlog.Infrastructure.csproj|solutionrelative:herrlog.infrastructure\\herrlog.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thidi\\Downloads\\backend\\Herrlog.Application\\Tracking\\CommandsQueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thidi\\Downloads\\backend\\Herrlog.Infrastructure\\Persistence\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thidi\\Downloads\\backend\\Herrlog.Application\\Mapping\\AppProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thidi\\Downloads\\backend\\Herrlog.Application\\DTOs\\VehicleDtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thidi\\Downloads\\backend\\Herrlog.Application\\DTOs\\TrackingDtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thidi\\AppData\\Local\\Temp\\235e4c35-5bc7-48a3-b961-fa9d09aa9ac9_herrlog_fullstack_real.zip.ac9\\backend\\Herrlog.WebApi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F1D1BB-CFF5-F370-594E-3A9DFF0A3210}|Herrlog.Infrastructure\\Herrlog.Infrastructure.csproj|c:\\users\\thidi\\source\\repos\\herrlog\\herrlog.infrastructure\\scripts\\schema_herrlogdb.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{71F1D1BB-CFF5-F370-594E-3A9DFF0A3210}|Herrlog.Infrastructure\\Herrlog.Infrastructure.csproj|solutionrelative:herrlog.infrastructure\\scripts\\schema_herrlogdb.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HerrlogDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Infrastructure\\Database\\HerrlogDbContext.cs",
+              "RelativeDocumentMoniker": "Herrlog.Infrastructure\\Database\\HerrlogDbContext.cs",
+              "ToolTip": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Infrastructure\\Database\\HerrlogDbContext.cs",
+              "RelativeToolTip": "Herrlog.Infrastructure\\Database\\HerrlogDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T20:12:46.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "schema_herrlogdb.sql ",
+              "DocumentMoniker": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Infrastructure\\Scripts\\schema_herrlogdb.sql",
+              "RelativeDocumentMoniker": "Herrlog.Infrastructure\\Scripts\\schema_herrlogdb.sql",
+              "ToolTip": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Infrastructure\\Scripts\\schema_herrlogdb.sql",
+              "RelativeToolTip": "Herrlog.Infrastructure\\Scripts\\schema_herrlogdb.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-30T23:54:15.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UploadTrackingCommand.cs",
+              "DocumentMoniker": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Application\\Commands\\Tracking\\UploadTrackingCommand.cs",
+              "RelativeDocumentMoniker": "Herrlog.Application\\Commands\\Tracking\\UploadTrackingCommand.cs",
+              "ToolTip": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Application\\Commands\\Tracking\\UploadTrackingCommand.cs",
+              "RelativeToolTip": "Herrlog.Application\\Commands\\Tracking\\UploadTrackingCommand.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA9wCIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T20:58:19.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetTrackingPointsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Application\\Queries\\Tracking\\GetTrackingPointsQuery.cs",
+              "RelativeDocumentMoniker": "Herrlog.Application\\Queries\\Tracking\\GetTrackingPointsQuery.cs",
+              "ToolTip": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Application\\Queries\\Tracking\\GetTrackingPointsQuery.cs",
+              "RelativeToolTip": "Herrlog.Application\\Queries\\Tracking\\GetTrackingPointsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T21:03:29.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "Herrlog.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.WebApi\\appsettings.json",
+              "RelativeToolTip": "Herrlog.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-28T17:25:28.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateVehicleCommand.cs",
+              "DocumentMoniker": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Application\\Commands\\Vehicle\\UpdateVehicleCommand.cs",
+              "RelativeDocumentMoniker": "Herrlog.Application\\Commands\\Vehicle\\UpdateVehicleCommand.cs",
+              "ToolTip": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Application\\Commands\\Vehicle\\UpdateVehicleCommand.cs",
+              "RelativeToolTip": "Herrlog.Application\\Commands\\Vehicle\\UpdateVehicleCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T19:56:19.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeleteVehicleCommand.cs",
+              "DocumentMoniker": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Application\\Commands\\Vehicle\\DeleteVehicleCommand.cs",
+              "RelativeDocumentMoniker": "Herrlog.Application\\Commands\\Vehicle\\DeleteVehicleCommand.cs",
+              "ToolTip": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Application\\Commands\\Vehicle\\DeleteVehicleCommand.cs",
+              "RelativeToolTip": "Herrlog.Application\\Commands\\Vehicle\\DeleteVehicleCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T19:56:52.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateVehicleCommand.cs",
+              "DocumentMoniker": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Application\\Commands\\Vehicle\\CreateVehicleCommand.cs",
+              "RelativeDocumentMoniker": "Herrlog.Application\\Commands\\Vehicle\\CreateVehicleCommand.cs",
+              "ToolTip": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Application\\Commands\\Vehicle\\CreateVehicleCommand.cs",
+              "RelativeToolTip": "Herrlog.Application\\Commands\\Vehicle\\CreateVehicleCommand.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T19:56:40.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Herrlog.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.WebApi\\Program.cs",
+              "RelativeToolTip": "Herrlog.WebApi\\Program.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAG8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T15:57:09.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VehicleCommandsTests.cs",
+              "DocumentMoniker": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Tests\\Vehicles\\VehicleCommandsTests.cs",
+              "RelativeDocumentMoniker": "Herrlog.Tests\\Vehicles\\VehicleCommandsTests.cs",
+              "ToolTip": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Tests\\Vehicles\\VehicleCommandsTests.cs",
+              "RelativeToolTip": "Herrlog.Tests\\Vehicles\\VehicleCommandsTests.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T02:48:30.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VehicleQueriesTests.cs",
+              "DocumentMoniker": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Tests\\Vehicles\\VehicleQueriesTests.cs",
+              "RelativeDocumentMoniker": "Herrlog.Tests\\Vehicles\\VehicleQueriesTests.cs",
+              "ToolTip": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Tests\\Vehicles\\VehicleQueriesTests.cs",
+              "RelativeToolTip": "Herrlog.Tests\\Vehicles\\VehicleQueriesTests.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T02:57:48.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TrackingPointMapping.cs",
+              "DocumentMoniker": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Application\\Mapping\\TrackingPointMapping.cs",
+              "RelativeDocumentMoniker": "Herrlog.Application\\Mapping\\TrackingPointMapping.cs",
+              "ToolTip": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Application\\Mapping\\TrackingPointMapping.cs",
+              "RelativeToolTip": "Herrlog.Application\\Mapping\\TrackingPointMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T03:41:47.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.WebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Herrlog.WebApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.WebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Herrlog.WebApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-30T23:38:48.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TrackingTests.cs",
+              "DocumentMoniker": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Tests\\Tracking\\TrackingTests.cs",
+              "RelativeDocumentMoniker": "Herrlog.Tests\\Tracking\\TrackingTests.cs",
+              "ToolTip": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Tests\\Tracking\\TrackingTests.cs",
+              "RelativeToolTip": "Herrlog.Tests\\Tracking\\TrackingTests.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwCYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T02:38:51.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TestFixture.cs",
+              "DocumentMoniker": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Tests\\TestUtilities\\TestFixture.cs",
+              "RelativeDocumentMoniker": "Herrlog.Tests\\TestUtilities\\TestFixture.cs",
+              "ToolTip": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Tests\\TestUtilities\\TestFixture.cs",
+              "RelativeToolTip": "Herrlog.Tests\\TestUtilities\\TestFixture.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwB0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T02:48:46.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TrackingDto.cs",
+              "DocumentMoniker": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Application\\DTOs\\TrackingDto.cs",
+              "RelativeDocumentMoniker": "Herrlog.Application\\DTOs\\TrackingDto.cs",
+              "ToolTip": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Application\\DTOs\\TrackingDto.cs",
+              "RelativeToolTip": "Herrlog.Application\\DTOs\\TrackingDto.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwCIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T23:17:54.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "VehicleValidators.cs",
+              "DocumentMoniker": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Application\\Validation\\VehicleValidators.cs",
+              "RelativeDocumentMoniker": "Herrlog.Application\\Validation\\VehicleValidators.cs",
+              "ToolTip": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Application\\Validation\\VehicleValidators.cs",
+              "RelativeToolTip": "Herrlog.Application\\Validation\\VehicleValidators.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T22:30:08.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TrackingPointEntity.cs",
+              "DocumentMoniker": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Domain\\Entities\\TrackingPointEntity.cs",
+              "RelativeDocumentMoniker": "Herrlog.Domain\\Entities\\TrackingPointEntity.cs",
+              "ToolTip": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Domain\\Entities\\TrackingPointEntity.cs",
+              "RelativeToolTip": "Herrlog.Domain\\Entities\\TrackingPointEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T21:01:41.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetVehicleByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Application\\Queries\\Vehicle\\GetVehicleByIdQuery.cs",
+              "RelativeDocumentMoniker": "Herrlog.Application\\Queries\\Vehicle\\GetVehicleByIdQuery.cs",
+              "ToolTip": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Application\\Queries\\Vehicle\\GetVehicleByIdQuery.cs",
+              "RelativeToolTip": "Herrlog.Application\\Queries\\Vehicle\\GetVehicleByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T00:33:51.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetVehiclesRequest.cs",
+              "DocumentMoniker": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Application\\Queries\\Vehicle\\GetVehiclesRequest.cs",
+              "RelativeDocumentMoniker": "Herrlog.Application\\Queries\\Vehicle\\GetVehiclesRequest.cs",
+              "ToolTip": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Application\\Queries\\Vehicle\\GetVehiclesRequest.cs",
+              "RelativeToolTip": "Herrlog.Application\\Queries\\Vehicle\\GetVehiclesRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T22:32:47.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "VehicleEntity.cs",
+              "DocumentMoniker": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Domain\\Entities\\VehicleEntity.cs",
+              "RelativeDocumentMoniker": "Herrlog.Domain\\Entities\\VehicleEntity.cs",
+              "ToolTip": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Domain\\Entities\\VehicleEntity.cs",
+              "RelativeToolTip": "Herrlog.Domain\\Entities\\VehicleEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T20:17:45.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Herrlog.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Application\\Herrlog.Application.csproj",
+              "RelativeDocumentMoniker": "Herrlog.Application\\Herrlog.Application.csproj",
+              "ToolTip": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Application\\Herrlog.Application.csproj",
+              "RelativeToolTip": "Herrlog.Application\\Herrlog.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-30T20:42:02.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "VehicleMappings.cs",
+              "DocumentMoniker": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Application\\Mapping\\VehicleMappings.cs",
+              "RelativeDocumentMoniker": "Herrlog.Application\\Mapping\\VehicleMappings.cs",
+              "ToolTip": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Application\\Mapping\\VehicleMappings.cs",
+              "RelativeToolTip": "Herrlog.Application\\Mapping\\VehicleMappings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T20:09:51.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Herrlog.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Infrastructure\\Herrlog.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Herrlog.Infrastructure\\Herrlog.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\thidi\\source\\repos\\HerrLog\\Herrlog.Infrastructure\\Herrlog.Infrastructure.csproj",
+              "RelativeToolTip": "Herrlog.Infrastructure\\Herrlog.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-30T20:12:08.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\thidi\\Downloads\\backend\\Herrlog.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\backend\\Herrlog.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\thidi\\Downloads\\backend\\Herrlog.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\backend\\Herrlog.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T17:48:57.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CommandsQueries.cs",
+              "DocumentMoniker": "C:\\Users\\thidi\\Downloads\\backend\\Herrlog.Application\\Tracking\\CommandsQueries.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\backend\\Herrlog.Application\\Tracking\\CommandsQueries.cs",
+              "ToolTip": "C:\\Users\\thidi\\Downloads\\backend\\Herrlog.Application\\Tracking\\CommandsQueries.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\backend\\Herrlog.Application\\Tracking\\CommandsQueries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T17:48:22.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AppProfile.cs",
+              "DocumentMoniker": "C:\\Users\\thidi\\Downloads\\backend\\Herrlog.Application\\Mapping\\AppProfile.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\backend\\Herrlog.Application\\Mapping\\AppProfile.cs",
+              "ToolTip": "C:\\Users\\thidi\\Downloads\\backend\\Herrlog.Application\\Mapping\\AppProfile.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\backend\\Herrlog.Application\\Mapping\\AppProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T17:44:16.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "VehicleDtos.cs",
+              "DocumentMoniker": "C:\\Users\\thidi\\Downloads\\backend\\Herrlog.Application\\DTOs\\VehicleDtos.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\backend\\Herrlog.Application\\DTOs\\VehicleDtos.cs",
+              "ToolTip": "C:\\Users\\thidi\\Downloads\\backend\\Herrlog.Application\\DTOs\\VehicleDtos.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\backend\\Herrlog.Application\\DTOs\\VehicleDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T17:37:11.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TrackingDtos.cs",
+              "DocumentMoniker": "C:\\Users\\thidi\\Downloads\\backend\\Herrlog.Application\\DTOs\\TrackingDtos.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\backend\\Herrlog.Application\\DTOs\\TrackingDtos.cs",
+              "ToolTip": "C:\\Users\\thidi\\Downloads\\backend\\Herrlog.Application\\DTOs\\TrackingDtos.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\backend\\Herrlog.Application\\DTOs\\TrackingDtos.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAIBZwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T17:30:24.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thidi\\AppData\\Local\\Temp\\235e4c35-5bc7-48a3-b961-fa9d09aa9ac9_herrlog_fullstack_real.zip.ac9\\backend\\Herrlog.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\235e4c35-5bc7-48a3-b961-fa9d09aa9ac9_herrlog_fullstack_real.zip.ac9\\backend\\Herrlog.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\thidi\\AppData\\Local\\Temp\\235e4c35-5bc7-48a3-b961-fa9d09aa9ac9_herrlog_fullstack_real.zip.ac9\\backend\\Herrlog.WebApi\\Program.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\235e4c35-5bc7-48a3-b961-fa9d09aa9ac9_herrlog_fullstack_real.zip.ac9\\backend\\Herrlog.WebApi\\Program.cs [Read Only]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T17:22:19.789Z",
+              "EditorCaption": " [Read Only]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

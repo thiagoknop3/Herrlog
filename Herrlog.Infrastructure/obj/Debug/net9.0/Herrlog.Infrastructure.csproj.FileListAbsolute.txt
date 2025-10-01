@@ -1,0 +1,15 @@
+C:\Users\thidi\source\repos\HerrLog\Herrlog.Infrastructure\bin\Debug\net9.0\Herrlog.Infrastructure.deps.json
+C:\Users\thidi\source\repos\HerrLog\Herrlog.Infrastructure\bin\Debug\net9.0\Herrlog.Infrastructure.dll
+C:\Users\thidi\source\repos\HerrLog\Herrlog.Infrastructure\bin\Debug\net9.0\Herrlog.Infrastructure.pdb
+C:\Users\thidi\source\repos\HerrLog\Herrlog.Infrastructure\bin\Debug\net9.0\Herrlog.Domain.dll
+C:\Users\thidi\source\repos\HerrLog\Herrlog.Infrastructure\bin\Debug\net9.0\Herrlog.Domain.pdb
+C:\Users\thidi\source\repos\HerrLog\Herrlog.Infrastructure\obj\Debug\net9.0\Herrlog.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\thidi\source\repos\HerrLog\Herrlog.Infrastructure\obj\Debug\net9.0\Herrlog.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thidi\source\repos\HerrLog\Herrlog.Infrastructure\obj\Debug\net9.0\Herrlog.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\thidi\source\repos\HerrLog\Herrlog.Infrastructure\obj\Debug\net9.0\Herrlog.Infrastructure.AssemblyInfo.cs
+C:\Users\thidi\source\repos\HerrLog\Herrlog.Infrastructure\obj\Debug\net9.0\Herrlog.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\thidi\source\repos\HerrLog\Herrlog.Infrastructure\obj\Debug\net9.0\Herrlog..FFD1C7F9.Up2Date
+C:\Users\thidi\source\repos\HerrLog\Herrlog.Infrastructure\obj\Debug\net9.0\Herrlog.Infrastructure.dll
+C:\Users\thidi\source\repos\HerrLog\Herrlog.Infrastructure\obj\Debug\net9.0\refint\Herrlog.Infrastructure.dll
+C:\Users\thidi\source\repos\HerrLog\Herrlog.Infrastructure\obj\Debug\net9.0\Herrlog.Infrastructure.pdb
+C:\Users\thidi\source\repos\HerrLog\Herrlog.Infrastructure\obj\Debug\net9.0\ref\Herrlog.Infrastructure.dll

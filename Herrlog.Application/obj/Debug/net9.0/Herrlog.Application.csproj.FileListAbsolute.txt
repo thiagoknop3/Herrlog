@@ -1,0 +1,17 @@
+C:\Users\thidi\source\repos\HerrLog\Herrlog.Application\bin\Debug\net9.0\Herrlog.Application.deps.json
+C:\Users\thidi\source\repos\HerrLog\Herrlog.Application\bin\Debug\net9.0\Herrlog.Application.dll
+C:\Users\thidi\source\repos\HerrLog\Herrlog.Application\bin\Debug\net9.0\Herrlog.Application.pdb
+C:\Users\thidi\source\repos\HerrLog\Herrlog.Application\bin\Debug\net9.0\Herrlog.Domain.dll
+C:\Users\thidi\source\repos\HerrLog\Herrlog.Application\bin\Debug\net9.0\Herrlog.Infrastructure.dll
+C:\Users\thidi\source\repos\HerrLog\Herrlog.Application\bin\Debug\net9.0\Herrlog.Domain.pdb
+C:\Users\thidi\source\repos\HerrLog\Herrlog.Application\bin\Debug\net9.0\Herrlog.Infrastructure.pdb
+C:\Users\thidi\source\repos\HerrLog\Herrlog.Application\obj\Debug\net9.0\Herrlog.Application.csproj.AssemblyReference.cache
+C:\Users\thidi\source\repos\HerrLog\Herrlog.Application\obj\Debug\net9.0\Herrlog.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thidi\source\repos\HerrLog\Herrlog.Application\obj\Debug\net9.0\Herrlog.Application.AssemblyInfoInputs.cache
+C:\Users\thidi\source\repos\HerrLog\Herrlog.Application\obj\Debug\net9.0\Herrlog.Application.AssemblyInfo.cs
+C:\Users\thidi\source\repos\HerrLog\Herrlog.Application\obj\Debug\net9.0\Herrlog.Application.csproj.CoreCompileInputs.cache
+C:\Users\thidi\source\repos\HerrLog\Herrlog.Application\obj\Debug\net9.0\Herrlog..AEF69EA8.Up2Date
+C:\Users\thidi\source\repos\HerrLog\Herrlog.Application\obj\Debug\net9.0\Herrlog.Application.dll
+C:\Users\thidi\source\repos\HerrLog\Herrlog.Application\obj\Debug\net9.0\refint\Herrlog.Application.dll
+C:\Users\thidi\source\repos\HerrLog\Herrlog.Application\obj\Debug\net9.0\Herrlog.Application.pdb
+C:\Users\thidi\source\repos\HerrLog\Herrlog.Application\obj\Debug\net9.0\ref\Herrlog.Application.dll
